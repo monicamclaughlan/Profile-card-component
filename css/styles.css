@@ -1,0 +1,104 @@
+body {
+  background-color: hsl(185, 75%, 39%);
+}
+
+h2 {
+  color: hsl(229, 23%, 23%);
+  font-size: 18px;
+  font-family: 'Kumbh Sans', sans-serif;
+  margin-left: 110px;
+  margin-right: 100px;
+  padding-top: 10px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+p {
+  display: inline-block;
+}
+
+.top-left {
+  position: absolute;
+  right: 50%;
+  bottom: 25%;
+}
+
+.bottom-right {
+  position: absolute;
+  left: 40%;
+  top: 60%;
+}
+
+.profile-card {
+  background-color: #FFFFFF;
+  border-style: none;
+  border-radius: 15px;
+  width: 30%;
+  margin: 200px auto;
+  position: relative;
+}
+
+.card-texture {
+  width: 100%;
+  border-radius: 15px 15px 0 0;
+}
+
+.victor {
+  margin: -50px 125px 0;
+  border-radius: 50%;
+  border: solid;
+  border-color: white;
+  border-width: 5px;
+}
+
+.age {
+  color: hsl(227, 10%, 46%);
+}
+
+.London {
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  color: hsl(227, 10%, 46%);
+  margin-left: 150px;
+  margin-top: 0px;
+}
+.Numbers {
+  margin-left: 30px;
+}
+.paragraph-numbers {
+  display: inline-block;
+  padding-right: 30px;
+  padding-left: 30px;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 18px;
+  color: hsl(229, 23%, 23%);
+  margin-bottom: 0;
+}
+.Descriptions {
+margin-left: 25px;
+}
+.paragraph-descriptions {
+  padding-left: 25px;
+  padding-right: 25px;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 12px;
+  color: hsl(0, 0%, 59%);
+  margin-top: 0;
+}
+.paragraph-descriptions-two {
+  padding-left: 35px;
+  padding-right: 25px;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 12px;
+  color: hsl(0, 0%, 59%);
+  margin-top: 0;
+}
+.paragraph-descriptions-three {
+  padding-left: 40px;
+  padding-right: 25px;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 12px;
+  color: hsl(0, 0%, 59%);
+  margin-top: 0;
+}
